@@ -35,3 +35,9 @@ export const projectData = [
     gitHub: "https://github.com/NganSof/Figma_Doorhub",
   },
 ];
+
+export const links = [
+  { path: "/", name: "Home" },
+  { path: "/project", name: "My Project" },
+  { path: "/contact", name: "Contact" },
+];
